@@ -1,5 +1,6 @@
 package com.nsss.pizzamanagementsystembackend.repository;
 
+import com.nsss.pizzamanagementsystembackend.model.Crust;
 import org.springframework.data.mongodb.repository.MongoRepository;
 
 import java.util.List;
